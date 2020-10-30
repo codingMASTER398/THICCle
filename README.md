@@ -3,7 +3,7 @@ I dont even know anymore
 
 If you want to install the thicc google logo follow these thicc steps
 
-1. Install tampermonkey at https://chrome.google.com/webstore/detail/tampermonkey/
+1. Install tampermonkey at https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
 2. Click on the tampermonkey button in te top right
 3. Get rid of all the code
 4. Paste in everything in the THICCle.user.js file
